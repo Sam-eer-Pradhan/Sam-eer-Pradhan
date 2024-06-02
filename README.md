@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-eer-pradhan&label=Profile%20views&color=0e75b6&style=plastic" alt="sam-eer-pradhan" /> </p>
 
-- 🔭 I’m currently working on **Building Paytm from scratch(End to End))**
+- 🔭 I’m currently working on **Building Paytm from scratch(End to End)**
 
 - 🌱 I’m currently learning **Three.js and AWS**
 
